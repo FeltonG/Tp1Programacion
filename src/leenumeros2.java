@@ -17,7 +17,6 @@ public class leenumeros2 {
                 break;
             }
 
-
             if (numero > 0) {
                 System.out.println("el número es positivo.");
             } else {
@@ -35,7 +34,7 @@ public class leenumeros2 {
 
         } while (numero != 0);
 
-        scanner.close();
+
     }
 }
 }
